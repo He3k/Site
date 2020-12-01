@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/main_background.jpg");
+}
+name{
+    font-family: Arial;
+    color: white;
+    font-size: 30px;
+}
+.altair {
+    width: 15%;
+}
+.ezio {
+    width: 15%;
+}
+
+.connor {
+    width: 15%;
+}
+.edward {
+    width: 15%;
+}
+.arno {
+    margin-top: -1%;
+    width: 15%;
+}
