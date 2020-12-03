@@ -1,43 +1,44 @@
 body{
     background-image: url("images/main_background.jpg");
 }
-.bg{
-    margin-left: 50%;
-    margin-top: 50%;
-}
 
+video{
+    position: absolute;
+    z-index: -1;
+    min-width: 100%;
+    min-height: 100%;
+    overflow: hidden;
+    margin-top: -50%;
+}
 
 .altair {
-    width: 15%;
+    width: 10%;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
 .ezio {
-    width: 15%;
+    width: 10%;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
-
 .connor {
-    width: 15%;
+    width: 10%;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
 .edward {
-    width: 15%;
+    width: 10%;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
 .arno {
-    width: 15%;
+    width: 10%;
     margin-left: 5%;
-    margin-top: 5%;
+    margin-top: 2.5%;
 }
-
 .altair:hover{
     transform: scale(1.5);
     transition: all 0.5s;
-
 }
 .ezio:hover{
     transform: scale(1.5);
