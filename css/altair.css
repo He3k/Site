@@ -1,0 +1,57 @@
+body{
+    background-attachment: fixed;
+    background-image: url("../images/altair_back.jpg");
+}
+
+.arts{
+    margin-top: 10%;
+}
+
+.art1{
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 10%;
+}
+.art2{
+    width: 30%;
+    margin-left: 28%;
+    margin-top: -25%;
+}
+.art3{
+    width: 30%;
+    margin-left: 62%;
+    margin-top: -20%;
+}
+
+.art1:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.art2:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.art3:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+header{
+    font-weight: bold;
+    font-family: "Consolas";
+    font-size: 30px;
+    color: white;
+}
+text{
+    font-weight: lighter;
+    font-family: "Consolas";
+    font-size: 20px;
+    color: white;
+}
+
+.history{
+    margin-top: 10%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /*background-image: url("../images/texture.jpg");*/
+    border: 2px solid;
+}
