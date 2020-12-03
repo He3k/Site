@@ -1,25 +1,59 @@
 body{
     background-image: url("images/main_background.jpg");
 }
-name{
-    font-family: Arial;
-    color: white;
-    font-size: 30px;
+.bg{
+    margin-left: 50%;
+    margin-top: 50%;
 }
+
+
 .altair {
     width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
 }
 .ezio {
     width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
 }
 
 .connor {
     width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
 }
 .edward {
     width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
 }
 .arno {
-    margin-top: -1%;
     width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
 }
+
+.altair:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+
+}
+.ezio:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.connor:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.edward:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.arno:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+
