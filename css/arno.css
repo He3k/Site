@@ -76,6 +76,7 @@ text{
 }
 
 .history{
+    color: white;
     margin-top: 5%;
     background-color: rgba(0, 0, 0, 0.5);
     /*background-image: url("../images/texture.jpg");

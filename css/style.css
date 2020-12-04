@@ -9,9 +9,9 @@ video{
     min-width: 100%;
     min-height: 100%;
     overflow: hidden;
-    margin-top: -40%;
+    margin-top: -45%;
 }
-/*
+
 .altair {
     width: 10%;
     margin-left: 5%;
@@ -37,13 +37,13 @@ video{
     margin-left: 5%;
     margin-top: 2.5%;
 }
-*/
+/*
 .assasins{
     width: 10%;
     margin-left: 5%;
     margin-top: 10%;
 }
-
+*/
 .altair:hover{
     transform: scale(1.5);
     transition: all 0.5s;
