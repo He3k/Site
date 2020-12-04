@@ -1,0 +1,92 @@
+body{
+    background-attachment: fixed;
+    background-image: url("../images/connor_back.jpg");
+}
+
+.arts{
+    margin-top: 10%;
+}
+
+.art1{
+    width: 25%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.art2{
+    width: 25%;
+    margin-left: 35%;
+    margin-top: -14.5%;
+}
+.art3{
+    width: 25%;
+    margin-left: 65%;
+    margin-top: -14.5%;
+}
+
+.art1:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.art2:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+.art3:hover{
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.screen1{
+    margin-top: 2%;
+    margin-left: 2.5%;
+}
+.screen2{
+    margin-top: -11%;
+    margin-left: 36%;
+}
+.screen3{
+    margin-top: -11%;
+    margin-left: 70%;
+}
+
+.screen1:hover{
+    transform: scale(1.005);
+    transition: all 0.5s;
+}
+.screen2:hover{
+    transform: scale(1.005);
+    transition: all 0.5s;
+}
+.screen3:hover{
+    transform: scale(1.005);
+    transition: all 0.5s;
+}
+
+header{
+    font-weight: bold;
+    font-family: "Consolas";
+    font-size: 30px;
+    color: white;
+}
+text{
+    font-weight: lighter;
+    font-family: "Consolas";
+    font-size: 15px;
+    color: white;
+}
+
+.history{
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /*background-image: url("../images/texture.jpg");
+    border: 2px solid;*/
+}
+.torrent{
+    margin-top: 5%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.button{
+    margin-top: 5%;
+    width: 20%;
+}
