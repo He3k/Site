@@ -83,10 +83,15 @@ text{
     border: 2px solid;*/
 }
 .torrent{
+    color: white;
     margin-top: 5%;
     background-color: rgba(0, 0, 0, 0.5);
 }
-
+/*
+.info{
+    color: white;
+}
+*/
 .button{
     margin-top: 5%;
     width: 20%;

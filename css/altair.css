@@ -36,30 +36,37 @@ body{
     transition: all 0.5s;
 }
 
+.screens{
+    margin-top: 10%;
+
+}
 .screen1{
     margin-top: 2%;
     margin-left: 2.5%;
+    width: 20%;
 }
 .screen2{
     margin-top: -11%;
     margin-left: 36%;
+    width: 20%;
 }
 .screen3{
     margin-top: -11%;
     margin-left: 70%;
+    width: 20%;
 }
 
 .screen1:hover{
-    transform: scale(1.005);
-    transition: all 0.5s;
+    transform: scale(1.2);
+    transition: all 0.3s;
 }
 .screen2:hover{
-    transform: scale(1.005);
-    transition: all 0.5s;
+    transform: scale(1.2);
+    transition: all 0.3s;
 }
 .screen3:hover{
-    transform: scale(1.005);
-    transition: all 0.5s;
+    transform: scale(1.2);
+    transition: all 0.3s;
 }
 
 header{
@@ -83,6 +90,7 @@ text{
     border: 2px solid;*/
 }
 .torrent{
+    color: white;
     margin-top: 5%;
     background-color: rgba(0, 0, 0, 0.5);
 }
